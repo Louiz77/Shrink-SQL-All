@@ -8,4 +8,4 @@ Configuration
 
 Main
 
-![image](https://github.com/user-attachments/assets/40237e6a-f5e8-4c7e-95a2-f7ef095b39f7)
+![image](https://github.com/user-attachments/assets/dbd34898-92e3-442e-95eb-8b5e5b60af52)
